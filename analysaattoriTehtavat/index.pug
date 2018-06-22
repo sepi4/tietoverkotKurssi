@@ -3,24 +3,43 @@ html(lang='en')
   head
     meta(charset='UTF-8')
     title Tietoverkot kurssin harjoitusten vastaukset
-  body
-    h1 Tietoverkot kurssin harjoitusten vastukset
-    |   Harjoitukset
-    ol(type='I')
-      li.harjoitus
-        ol(type='1')
-          li.tehtava
-            ol(type='a')
-              li
-                a(href='./harjoitus1a.pcap') harjoitus1a
-              li 11
-          li.tehtava
-            ol(type='a')
-              li
-                a(href='./harjoitus1b.pcap') harjoitus1b
-              li
-                | Pakettien määrä oli tällä kertaa isompi kuin a-kohdassa.
-                | Yhteyden avauksen esim. teki 2 kertaa jostain syystä ja
-                | sulkemiseen myös. Reloadin takia välittyi 10 pakettia 
-                | enemmän.
-              li 28
+    link(rel='stylesheet', href='https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css', integrity='sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB', crossorigin='anonymous')
+  body.container
+      h1 Tietoverkot kurssin harjoitusten vastukset
+      ol(type='1')
+        li tehtävä
+          ol(type='a')
+            li
+              a(href='./tehtava1a.pcap') tehtava1a
+            li 11
+        li tehtävä
+          ol(type='a')
+            li
+              a(href='./tehtava1b.pcap') tehtava1b
+            li
+              | Pakettien määrä oli tällä kertaa isompi kuin a-kohdassa.
+              | Yhteyden avauksen esim. teki 2 kertaa jostain syystä ja
+              | sulkemiseen myös. Reloadin takia välittyi 10 pakettia enemmän.
+            li 28
+        li tehtävä
+          ol(type='a')
+            li 5
+            li 130.234.10.207 ja 130.234.6.46
+            li hakee rinnakkain
+            li
+              a(href='./tehtava3d.pcap') tehtava3d
+        li tehtävä
+          ol(type='a')
+            li 401
+            li Basic
+            li
+              a(href='./tehtava4c.pcap') tehtava4c
+            li
+              | Bearer, Digest, HOBA, Motual, AWS4-HMAC-SHA256 
+              a(href='https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication') lähde
+        li tehtävä
+          ol(type='a')
+            li
+              a(href='./tehtava5a.pcap') tehtava5a
+            li 12 pakettia. Käytin linuxia.
+

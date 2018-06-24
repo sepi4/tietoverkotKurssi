@@ -1,0 +1,11 @@
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht02\bin\Debug\netcoreapp2.0\teht02.deps.json
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht02\bin\Debug\netcoreapp2.0\teht02.runtimeconfig.json
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht02\bin\Debug\netcoreapp2.0\teht02.runtimeconfig.dev.json
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht02\bin\Debug\netcoreapp2.0\teht02.dll
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht02\bin\Debug\netcoreapp2.0\teht02.pdb
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht02\obj\Debug\netcoreapp2.0\teht02.csprojResolveAssemblyReference.cache
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht02\obj\Debug\netcoreapp2.0\teht02.csproj.CoreCompileInputs.cache
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht02\obj\Debug\netcoreapp2.0\teht02.AssemblyInfoInputs.cache
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht02\obj\Debug\netcoreapp2.0\teht02.AssemblyInfo.cs
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht02\obj\Debug\netcoreapp2.0\teht02.dll
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht02\obj\Debug\netcoreapp2.0\teht02.pdb

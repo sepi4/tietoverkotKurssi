@@ -25,7 +25,7 @@ namespace teht02
             //kunnellaan asiakkaita
             Palvelin.Listen(5); // jonossa saa olla
 
-            // while(true) {
+            while(true) {
                 // koodi pysahtyy, palvelin odottaa yhteytta, palautaa asiakkaan socketti
                 Socket Asiakas = Palvelin.Accept(); 
 
@@ -42,11 +42,11 @@ namespace teht02
                 sw.WriteLine("Sergein Palvelin;" + rec);
                 sw.Flush(); // laittaa datan eteenpain
                 Asiakas.Close();
-            // }
+            }
 
 
             // Console.ReadKey();
-            Palvelin.Close();
+            // Palvelin.Close();
 
         }
     }

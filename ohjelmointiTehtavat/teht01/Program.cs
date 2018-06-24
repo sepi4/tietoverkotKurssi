@@ -24,13 +24,25 @@ namespace teht01
             String sivu = "";
 
             int count = 0;
+
             do
             {
-                byte[] rec = new byte[1024];
-                count = s.Receive(rec);
-                System.Console.WriteLine("Tavuja vastaanotettu: " + count);
-                sivu += Encoding.ASCII.GetString(rec, 0, count);
+                try
+                {
+                    byte[] rec = new byte[1024];
+                    count = s.Receive(rec);
+                    // System.Console.WriteLine("Tavuja vastaanotettu: " + count);
+                    sivu += Encoding.ASCII.GetString(rec, 0, count);
+                }
+                catch
+                {
+                    Console.WriteLine(sivu);
+                    throw;
+                }
             } while (count > 0);
+
+            //leikataan otsikkorivit pois
+            sivu = sivu.Substring(sivu.IndexOf("\r\n\r\n"));
 
             Console.WriteLine(sivu);
             // Console.ReadKey();

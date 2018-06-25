@@ -46,6 +46,8 @@ namespace teht06
                 if (palat.Length < 2)
                 {
                     //laheta virheviesti
+                    System.Console.WriteLine("Virheellinen viesti asiakkaalta: [{0}:{1}]", ((IPEndPoint)remote).Address, ((IPEndPoint)remote).Port);
+                    s.SendTo(Encoding.ASCII.GetBytes("virhe"), remote);
                 }
                 else
                 {
@@ -59,16 +61,12 @@ namespace teht06
                     foreach (var client in asiakkaat)
                     {
                        //String kaikille = palat[0] + ": " + palat[1];
-                       // laheta recString
                        s.SendTo(Encoding.ASCII.GetBytes(recString), client);
                     }
                 }
             }
-
-
             Console.ReadKey();
             s.Close();
-                
         }
     }
 }

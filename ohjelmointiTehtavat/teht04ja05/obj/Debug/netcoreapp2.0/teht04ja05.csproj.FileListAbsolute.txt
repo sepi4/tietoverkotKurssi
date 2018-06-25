@@ -1,0 +1,11 @@
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht04ja05\bin\Debug\netcoreapp2.0\teht04ja05.deps.json
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht04ja05\bin\Debug\netcoreapp2.0\teht04ja05.runtimeconfig.json
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht04ja05\bin\Debug\netcoreapp2.0\teht04ja05.runtimeconfig.dev.json
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht04ja05\bin\Debug\netcoreapp2.0\teht04ja05.dll
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht04ja05\bin\Debug\netcoreapp2.0\teht04ja05.pdb
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht04ja05\obj\Debug\netcoreapp2.0\teht04ja05.csprojResolveAssemblyReference.cache
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht04ja05\obj\Debug\netcoreapp2.0\teht04ja05.csproj.CoreCompileInputs.cache
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht04ja05\obj\Debug\netcoreapp2.0\teht04ja05.AssemblyInfoInputs.cache
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht04ja05\obj\Debug\netcoreapp2.0\teht04ja05.AssemblyInfo.cs
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht04ja05\obj\Debug\netcoreapp2.0\teht04ja05.dll
+C:\Users\sepi4\Desktop\tietoverkot\ohjelmointiTehtavat\teht04ja05\obj\Debug\netcoreapp2.0\teht04ja05.pdb

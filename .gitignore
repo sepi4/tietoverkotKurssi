@@ -1,5 +1,5 @@
 *.mp4
 node_modules/
 *.json
-ITKP104_Pelipalvelin/*
-UDP*/*
+tyokalut/
+package-lock.json

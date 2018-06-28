@@ -59,8 +59,10 @@ namespace teht08ja09
                             if (palat[1] == "300")
                                 Console.WriteLine("Väärä numero. Vastustajan vuoro.");
                             else if (palat[1] == "407")
+                            {
                                 Console.WriteLine("Virhe: arvauksesi ei ollut numero. Kokeile uudestaan.");
                                 KysyNum(palvelin, Pep);
+                            }
                             
                         }
                         else if (palat[0] == "DATA")
